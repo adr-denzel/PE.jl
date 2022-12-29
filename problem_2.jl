@@ -20,4 +20,4 @@ function even_fib_sum(n)
 	return sum
 end
 
-println(even_fib_reduction(4000000))
+println(even_fib_sum(4000000))
