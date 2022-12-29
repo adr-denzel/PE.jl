@@ -1,4 +1,4 @@
 # eulerings
-Project Euler probelm solutions
+Project Euler Solutions
 
 Try some: https://projecteuler.net/about
