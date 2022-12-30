@@ -18,4 +18,4 @@ function longest_collatz_sequence(n)
 	return findfirst(isequal(maximum(collatz_lengths)), collatz_lengths)
 end
 
-println(longest_collatz_sequence(100000))
+println(longest_collatz_sequence(1000000))
