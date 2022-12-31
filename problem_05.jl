@@ -1,4 +1,4 @@
-# project euler problems
+# problem definition: https://projecteuler.net/problem=5
 
 function smallest_multiple(n)
 	arr = collect(1:n)
